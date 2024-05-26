@@ -18,7 +18,7 @@ function App() {
 Para clonar este repositorio ejecute en la consola el comando:
 
 ````bash
-git clone "https://github.com/ivancho523/tutorial_colab"
+ git clone "https://github.com/ivancho523/tutorial_colab"
 ```
 
 
