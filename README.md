@@ -4,7 +4,7 @@
 Esto es un demo de cómo se puede conectar google colab con un entorno de almacenamiento de repositorios como GitHub
 
 
-## Usage/Examples
+## Uso / Ejemplos
 
 ```python
 import Component from my-project
