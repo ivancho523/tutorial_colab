@@ -59,6 +59,22 @@ Hacer comentarios orientativos
   git commit -m "comentario"
 ```
 
+Subir cambios al repo                  
+
+```bash
+  git push 
+```
+
+Para ignorar la carpeta del entorno virtual creamos un archivo                  
+
+```bash
+  .gitignore
+```
+
+Adicionamos la ruta de la carpeta
+```bash
+  probe/
+```
 
 ## Authors
 
