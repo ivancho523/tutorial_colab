@@ -3,6 +3,10 @@
 
 Esto es un demo de cómo se puede conectar google colab con un entorno de almacenamiento de repositorios como GitHub
 
+# Creación README.md
+
+Utilizar la página https://readme.so/es para facilitar el trabajo y darle orden
+
 
 ## Uso / Ejemplos
 
