@@ -80,6 +80,21 @@ Adicionamos la ruta de la carpeta
   probe/
 ```
 
+Actualizar los cambios generales que realizaron otros en mi repositorio local
+```bash
+  git fetch
+```
+
+Unificar los cambios de ambas ramas para que tengamos todos el mismo
+```bash
+  git merge
+```
+
+Si no tengo cambios basta hacer la actualización de los cambios y continuar trabajando
+```bash
+  git pull origin main
+```
+
 ## Authors
 
 - [@ivancho523](https://github.com/ivancho523)
