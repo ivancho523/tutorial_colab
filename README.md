@@ -1,7 +1,7 @@
 
 # Ejemplo de Conexión con GitHub
 
-Esto es un demo de cómo se puede conectar google colab con un entorno de almacenamiento de repositorios como GitHub
+Esto es un demo de cómo se puede conectar un entorno de almacenamiento de repositorios como GitHub con una cuenta vinculada
 
 # Creación README.md
 
