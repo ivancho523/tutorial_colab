@@ -16,8 +16,7 @@ function App() {
 
 ## Deployment
 Para clonar este repositorio ejecute en la consola el comando:
-
-````bash
+```bash
  git clone "https://github.com/ivancho523/tutorial_colab"
 ```
 
